@@ -13,9 +13,9 @@
 - 💡 Goals:
 Build simple Python projects (like a calculator, to-do app, etc.)
 
-  Contribute to beginner-friendly open source projects
+     Contribute to beginner-friendly open source projects
 
-  Keep learning and growing as a developer
+     Keep learning and growing as a developer
 
 <!---
 Denislav-Py/Denislav-Py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
