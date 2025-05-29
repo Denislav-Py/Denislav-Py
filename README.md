@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning Python (syntax, functions, loops, and more)
 
       How to use GitHub for collaboration and project management
+      HTTP Basics
   
 - ⚡ Fun fact: I've decided on a career change at the age of 32, having previous experience in Supply Chain, Analysis and Sales
 
