@@ -8,8 +8,10 @@
 
       How to use GitHub for collaboration and project management
       HTTP Basics
-  
+      OOP concepts  
+      Algorithms
 - ⚡ Fun fact: I've decided on a career change at the age of 32, having previous experience in Supply Chain, Analysis and Sales
+        
 
 - 💡 Goals:
 Build simple Python projects (like a calculator, to-do app, etc.)
